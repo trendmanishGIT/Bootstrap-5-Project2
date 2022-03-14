@@ -72,3 +72,23 @@ body {
             margin: auto;
             border-bottom: 1px #ddd solid;
         }
+
+
+        #authors img {
+             
+                margin-top: -50px;
+            
+        }
+
+        .card:hover {
+            background-color:rgba(92, 182, 182);
+            color: #fff;
+        }
+
+        .fab {
+            color: #fff;
+        }
+
+        body {
+            position: relative;
+        }
